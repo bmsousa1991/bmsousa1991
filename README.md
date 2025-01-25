@@ -1,4 +1,4 @@
-## Sobre Mim
+## Oá Mundo! 👋 
 
 Sou engenheiro **DevOps** com experiência em ambientes **on-premises** e **nuvem** (Azure, AWS e GCP), com foco em implementação de **CI/CD** e **automação de infraestrutura**. Tenho expertise em **Infrastructure as Code (IaC)**, **containerização**, **Kubernetes** e ferramentas **DevOps**.
 
