@@ -28,5 +28,6 @@ Atualmente, contribuo com projetos **open-source** e mantenho repositórios **De
 
 ## Minhas contribuições
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bmsousa1991&show_icons=true&count_private=true&hide_title=true)  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bmsousa1991)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bmsousa1991&show_icons=true&count_private=true&hide_title=true&theme=dark)  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bmsousa1991&theme=dark)
+
