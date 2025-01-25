@@ -2,7 +2,7 @@
   <img src="./devops.jpg" alt="devops" width="900"/>
 </p>
 
-## <p align="center">Olá Mundo! Eu sou Bruno Sousa👋</p>
+## <p align="center">Olá Mundo!👋 Eu sou Bruno Sousa</p>
 
 #### <p align="center">DevOps Engineer | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Technical Blogger</p>
 
