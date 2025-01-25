@@ -5,7 +5,10 @@
 ## <p align="center">Olá Mundo!👋 Eu sou Bruno Sousa</p>
 
 #### <p align="center">DevOps Engineer | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Technical Blogger</p>
-<p align="center">![Visitas ao Perfil](https://komarev.com/ghpvc/?username=bmsousa1991)</p>
+
+<p align="center">
+  ![Visitas ao Perfil](https://komarev.com/ghpvc/?username=bmsousa1991)
+</p>
 
 - **Linkedln**: [https://www.linkedin.com/in/bruno-sousa-6759a527/]
 - **Email**: [bmsousa1991@gmail.com](mailto:bmsousa1991@gmail.com)
