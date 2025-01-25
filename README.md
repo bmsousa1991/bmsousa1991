@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./devops.jpg" alt="devops" width="800"/>
+  <img src="./devops.jpg" alt="devops" width="900"/>
 </p>
 
 ## <p align="center">Olá Mundo! 👋</p>
