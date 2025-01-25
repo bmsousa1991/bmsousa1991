@@ -2,14 +2,14 @@
   <img src="./devops.jpg" alt="devops" width="900"/>
 </p>
 
-## <p align="center">Olá Mundo! 👋</p>
+## <p align="center">Olá Mundo! Eu sou Bruno Sousa👋</p>
 
 <p align="center">
-   Engenheiro DevOps com sólida experiência em automação de infraestrutura, CI/CD e gestão de containers, atuando em ambientes on-premises e nas principais nuvens (Azure, AWS, GCP). Especialista em Infrastructure as Code (IaC) e orquestração de containers com Kubernetes, focado em criar soluções escaláveis e de alta disponibilidade. Tenho expertise no desenvolvimento de pipelines eficientes, utilizando ferramentas como Terraform, Ansible, CloudFormation, Docker e Kubernetes para automatizar e otimizar processos.
+DevOps Engineer | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Technical Blogger
 </p>
 
 ### Contato
-
+- **Linkedln**: [https://www.linkedin.com/in/bruno-sousa-6759a527/]
 - **Email**: [bmsousa1991@gmail.com](mailto:bmsousa1991@gmail.com)
 - **Blog**: *[Em Construção]*
 
