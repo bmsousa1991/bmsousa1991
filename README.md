@@ -2,9 +2,9 @@
   <img src="./devops.jpg" alt="devops" width="900"/>
 </p>
 
-## <p align="center">Olá Mundo!👋 Eu sou Bruno Sousa</p>![Visitas ao Perfil](https://komarev.com/ghpvc/?username=bmsousa1991)
+## <p align="center">Olá Mundo!👋 Eu sou Bruno Sousa</p>
 
-#### <p align="center">DevOps Engineer | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Technical Blogger</p>
+#### ![Visitas ao Perfil](https://komarev.com/ghpvc/?username=bmsousa1991)<p align="center">DevOps Engineer | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Technical Blogger</p>
 
 - **Linkedln**: [https://www.linkedin.com/in/bruno-sousa-6759a527/]
 - **Email**: [bmsousa1991@gmail.com](mailto:bmsousa1991@gmail.com)
@@ -20,5 +20,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bmsousa1991&show_icons=true&count_private=true&hide_title=true&theme=dark)  
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bmsousa1991&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmsousa1991&theme=dark&hide_title=true&layout=compact)
+
 
